@@ -1,0 +1,80 @@
+body {
+    
+    font-size: 15px;
+    line-height: 50px;
+    background: url("../images/iron-throne.jpg");
+    color: goldenrod
+    
+}
+
+.jumbotron {
+    background-color: goldenrod;
+    padding: 20px;
+    color: black; 
+    
+}
+
+
+#start {
+    width: 200px;
+    margin-left:400px;
+    margin-top: 50px;
+    color: black; important: !;
+    background-color: goldenrod; important: !;
+    
+}
+
+#reset {
+    width: 200px;
+    margin-left:400px;
+    margin-top: 10px;
+    color: black; important: !;
+    background-color: goldenrod; important: !;
+
+}
+
+
+
+
+#questionInput {
+    font-size: 20px;
+    line-height: 20px;
+    /* color: black; */
+    padding: 30px;
+    width: auto;
+    /* background-color: goldenrod; */
+    
+    
+}    
+#answerInput {
+
+    /* background-color: goldenrod; */
+    font-size: 20px;
+    text-align: left;
+    /* color: black; */
+}   
+.userAnswerChoices {
+    font-size: 20px;  
+    /* color: black; */
+ 
+}
+ 
+
+#timeLeft {
+    text-align:left;
+    font-size: 20px;
+    color: goldenrod;
+    margin: auto; 
+    
+}    
+
+#scoreBoard {
+    color: goldenrod;
+    font-size: 20px;
+    text-align: right;
+}
+    
+
+
+
+
